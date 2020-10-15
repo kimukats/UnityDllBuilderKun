@@ -9,7 +9,7 @@ CS ScriptからDLLをビルドする為のEditor拡張です。
 ## インストール
 
 [UnityCommandLineTools](https://github.com/katsumasa/UnityCommandLineTools)を必要とします。
-別途インストールして下さい。
+別途cloneして下さい。(submodule化は要検討)
 
 ```powershell
 git clone https://github.com/katsumasa/UnityCommandLineTools
